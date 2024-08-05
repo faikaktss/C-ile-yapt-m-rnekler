@@ -2,7 +2,7 @@
 
 
 
-/*ÖRNEKLER :    x += 2  x = x + 2
+/*ÖRNEKLER :    x += 2  x = x + 2 
                 x -= 2  x = x - 2
                 diyer örneklerde bunlar gibi */
 
